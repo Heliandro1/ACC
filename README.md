@@ -1,7 +1,8 @@
 # ACC
+<html>
 <body style="font-family: sans-serif;">
-<h1>Github do Heliandro😎👽👨‍🎓💻👨‍💻</h1>
-- Repositório Criado por Adérito Caxala Cabutako (vulgo Heliandro kkk)<br>
+<h1>My remote repo</h1>
+- Repositório Criado por Adérito Caxala (vulgo Heliandro)<br>
 - Junior Web and Desktop Developer
 - 🔭 I’m currently working on ... Desktop development with C# - Windows Forms
 <div align="center">
@@ -12,7 +13,7 @@
     <img style="display: block;
     margin: 15px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliandro1" alt="github_stats">
 </div>
-<h2>My social medias😎</h2>
+<h2>My social medias</h2>
 <a href="https://www.facebook.com/heliandro1" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
 <h1>I love coding🥰💝</h1>
 <div style="display: inline_block"><br>
