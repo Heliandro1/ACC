@@ -15,6 +15,7 @@
 </div>
 <h2>My social medias</h2>
 <a href="https://www.facebook.com/heliandro1" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
+<a href="https://www.linkedin.com/in/adérito-caxala" target="_blank" rel="external"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <h1>I love coding🥰💝</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="MA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
